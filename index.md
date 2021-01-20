@@ -29,12 +29,10 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Cotizaciones en la plaza hoy</strong>"
+  content: "<strong>Cotizaciones en la plaza hoy</strong>  "
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2021/01/20/prueba2.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
