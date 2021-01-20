@@ -24,7 +24,7 @@ page_sections:
   image:
     image: https://res.cloudinary.com/{{dvhrcwz7g}}/image/upload/v1611177176/Prueba_ptuz21.png
     alt_text: Product Shot
-  background_image: "/uploads/2021/01/20/soja-maiz.jpg"
+  background_image: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611176477/samples/landscapes/nature-mountains.jpg
 - template: content-feature
   block: feature-1
   media_alignment: Left
