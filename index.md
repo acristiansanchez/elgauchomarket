@@ -32,8 +32,8 @@ page_sections:
   headline: "<strong>Cotizaciones en la plaza hoy</strong>"
   content: "<strong>Cotizaciones en la plaza hoy</strong>  "
   media:
-    image: "/uploads/2021/01/20/prueba2.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611177175/Gr%C3%A1fico_Ejemplo_cnvgy5.png
+    alt_text: Cotización del Dolar
 - template: content-feature
   block: feature-1
   media_alignment: Right
