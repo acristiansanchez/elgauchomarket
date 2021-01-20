@@ -22,8 +22,8 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: https://res.cloudinary.com/{{dvhrcwz7g}}/image/upload/v1611177176/Prueba_ptuz21.png
-    alt_text: Product Shot
+    image: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611177175/Sample_Column_Chart_o6kdpt.png
+    alt_text: AgroDatos
   background_image: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611176477/samples/landscapes/nature-mountains.jpg
 - template: content-feature
   block: feature-1
