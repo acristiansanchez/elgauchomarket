@@ -1,18 +1,15 @@
+---
 title: El Gaucho Market
 author: DoctaMilimetric.com.ar
 email: support@forestry.io
-description: ""
-baseurl: "https://github.com/acristiansanchez/elgauchomarket/" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
-
-# Build settings
+description: ''
+baseurl: https://github.com/acristiansanchez/elgauchomarket/
+url: elgauchomarket
 defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default" # this ensures all content renders with layouts/default.html
-
+- scope:
+    path: ''
+  values:
+    layout: default
 plugins:
-  - jekyll-feed
-  - jekyll-menus
-
+- jekyll-feed
+- jekyll-menus
