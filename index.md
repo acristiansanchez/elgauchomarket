@@ -24,7 +24,7 @@ page_sections:
   image:
     image: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611177175/Prueba2_a5iyk8.png
     alt_text: AgroDatos
-  background_image: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611177868/maiz_mgxqbj.jpg
+  background_image: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611178446/maiz_mgxqbj_lvflik.jpg
 - template: content-feature
   block: feature-1
   media_alignment: Left
