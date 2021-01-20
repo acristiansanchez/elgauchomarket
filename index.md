@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: https://res.cloudinary.com/{{dvhrcwz7g}}/image/upload/v1611177175/Gr%C3%A1fico_Ejemplo_cnvgy5.png
+  logo: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611177176/Prueba_ptuz21.png
   navigation:
   - link: "/"
     link_text: Ubuild
