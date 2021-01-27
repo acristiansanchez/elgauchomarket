@@ -38,8 +38,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: mercadoHacienda.
-  headline: 'Mercado de Hacienda:'
-  content: ''
+  headline: <strong><span class="light">Monitor de Precios</span></strong>
+  content: <strong><span class="light">Mercado de Haciendas</span></strong>
   media:
     image: ''
     alt_text: DolarHOY
