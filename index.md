@@ -15,8 +15,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Acá va algo que se nos ocurra.
-  content: Acá va algo que se nos ocurra.
+  headline: "<strong>La información que acompaña tus desafíos</strong>"
+  content: ''
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
