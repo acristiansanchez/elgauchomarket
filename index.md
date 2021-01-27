@@ -19,7 +19,7 @@ page_sections:
   navigation:
   - link: ''
     link_text: ''
-  logo: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611177161/logo_size_tuxpe2.jpg
+  logo: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611176478/samples/animals/kitten-playing.gif
 - template: hero-banner-w-image
   block: hero-2
   slug: features
