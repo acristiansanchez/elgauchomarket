@@ -38,9 +38,7 @@ page_sections:
   media_alignment: Left
   slug: MonitorPrecios
   headline: "<strong>Monitor de precios</strong>"
-  content: <strong>Mercado de Granos</strong><a href="<div class=&quot;flourish-embed
-    flourish-table&quot; data-src=&quot;visualisation/5102242&quot;><script src=&quot;https://public.flourish.studio/resources/embed.js%22%3E&quot;</script></div>"
-    title="Tabla">div&gt;</a>
+  content: "<strong>Mercado de Granos</strong>"
   media:
     image: ''
     alt_text: ''
