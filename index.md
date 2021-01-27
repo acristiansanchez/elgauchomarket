@@ -3,6 +3,12 @@ layout: blocks
 title: El Gaucho Market
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: ''
+    link_text: ''
+  logo: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611177161/logo_size_tuxpe2.jpg
 - template: navigation-header-w-button
   block: header-2
   logo: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611178268/logo_pyxkko.png
