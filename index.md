@@ -28,11 +28,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: "<strong>Cotizaciones en la plaza hoy</strong>"
-  content: "<strong>Cotizaciones en la plaza hoy</strong>  "
+  slug: MonitorPrecios
+  headline: "<strong>Monitor de precios</strong>"
+  content: "<strong>Índice de Nación</strong> "
   media:
-    image: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611177175/Gr%C3%A1fico_Ejemplo_cnvgy5.png
+    image: ''
     alt_text: Cotización del Dolar
 - template: content-feature
   block: feature-1
