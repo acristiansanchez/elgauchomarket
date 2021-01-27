@@ -30,7 +30,7 @@ page_sections:
   media_alignment: Left
   slug: MonitorPrecios
   headline: "<strong>Monitor de precios</strong>"
-  content: "<strong>Índice de Nación</strong> "
+  content: "<strong>Mercado de Granos</strong>"
   media:
     image: ''
     alt_text: Cotización del Dolar
