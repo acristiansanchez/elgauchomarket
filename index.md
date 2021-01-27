@@ -33,7 +33,7 @@ page_sections:
   content: "<strong>Mercado de Granos</strong>"
   media:
     image: ''
-    alt_text: Cotización del Dolar
+    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -42,7 +42,7 @@ page_sections:
   content: <strong><span class="light">Mercado de Haciendas</span></strong>
   media:
     image: ''
-    alt_text: DolarHOY
+    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
