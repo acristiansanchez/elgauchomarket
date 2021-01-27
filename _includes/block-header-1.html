@@ -7,6 +7,7 @@
   </div>
 
   <nav class="block-header-1--nav">
+    <p> Estoy poniendo algo de texto en esta barra de navegación </p>
     <ul>
       {% for nav_item in section.navigation %}
       <li class="nav-item {% if page.url == nav_item.link %}active{% endif %}"><a href="{{ nav_item.link | relative_url }}">{{ nav_item.link_text }}</a></li>
