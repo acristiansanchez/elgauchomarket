@@ -41,7 +41,7 @@ page_sections:
   content: "<strong>Mercado de Granos</strong>"
   media:
     image: ''
-    alt_text: Acá debería ir el Flourish
+    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
