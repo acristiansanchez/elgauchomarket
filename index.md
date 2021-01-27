@@ -50,7 +50,7 @@ page_sections:
   content: <strong><span class="light">Mercado de Haciendas</span></strong>
   media:
     image: ''
-    alt_text: ''
+    alt_text: Aqúi va la otra TABLA
 - template: full-width-media-element
   block: media-1
   image: ''
