@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611178268/logo_pyxkko.png
   navigation:
+  - link: ''
+    link_text: ''
   - link: "/"
     link_text: Ubuild
   cta:
