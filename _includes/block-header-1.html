@@ -7,7 +7,8 @@
   </div>
 
   <nav class="block-header-1--nav">
-    <p> Estoy poniendo algo de texto en esta barra de navegación </p>
+    
+    <p>Dolar Oficial: $86.43  $92.43 +0.03%   | Dolar Turista: $152.51 +0.03  | Dolar Informal: $151.00 156.00 + 0.00%  | Dolar Mayorista: $86.91 $87.11 +0.10% </p>
     <ul>
       {% for nav_item in section.navigation %}
       <li class="nav-item {% if page.url == nav_item.link %}active{% endif %}"><a href="{{ nav_item.link | relative_url }}">{{ nav_item.link_text }}</a></li>
