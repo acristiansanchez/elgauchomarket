@@ -129,7 +129,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Noto Sans,Ubun
       font-size: 14px;
       background: #fff;
       font-weight:bold;
-
+      white-space: nowrap;
       /* Center slide text vertically */
       display: -webkit-box;
       display: -ms-flexbox;
