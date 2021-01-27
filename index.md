@@ -37,13 +37,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  slug: mercadoHacienda.
+  headline: 'Mercado de Hacienda:'
+  content: ''
   media:
-    image: https://res.cloudinary.com/dvhrcwz7g/image/upload/v1611177175/Sample_Column_Chart_o6kdpt.png
+    image: ''
     alt_text: DolarHOY
 - template: 1-column-text
   block: one-column-1
