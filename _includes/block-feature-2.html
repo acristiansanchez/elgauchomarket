@@ -1,16 +1,15 @@
-<section id="{{ section.slug | slugify }}" class="block block-feature-2">
-  <div class="container">
-    <div class="columns">
-      <div class="column media">
-          <div class="flourish-embed flourish-table" data-src="visualisation/5102242">
-            <script src="https://public.flourish.studio/resources/embed.js%22%3E</script>
-           </div>
-       <!--   <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="lazy"> -->
-      </div>
-      <div class="column text">
-          <h2><span class="light">{{ section.headline }}</span></h2>
-          <p>{{ section.content }}</p>
-      </div>
+<section id="{{ section.slug | slugify }}" className="block block-feature-2">
+    <div className="container">
+        <div className="columns">
+            <div className="column media">
+                <div className="flourish-embed flourish-table" data-src="visualisation/5102242">
+                    <script src="https://public.flourish.studio/resources/embed.js%22%3E" </script> </div>
+                <!-- <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="lazy"> -->
+            </div>
+            <div className="column text">
+                <h2><span className="light">{{section.headline}}</span></h2>
+                <p>{{section.content}}</p>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
